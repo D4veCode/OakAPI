@@ -1,6 +1,7 @@
 vscode/*
 node_modules/
 __tests__/runner/*
+.deno_plugins/*
 
 # Ignore js files that are transpiled from ts files in src/
 lib/
